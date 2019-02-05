@@ -1,1 +1,1 @@
-# (C++) Aruco-markers-recognition-and-targetting
+# Aruco-markers-recognition-and-targetting
