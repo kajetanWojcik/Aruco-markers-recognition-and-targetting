@@ -1,3 +1,3 @@
-# Aruco-markers-recognition-and-targetting
+# Aruco markers recognition and targetting
 
 Main code location: program/main.cpp
